@@ -1,0 +1,34 @@
+/* styles.css */
+
+/* Reset default margin and padding */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set body to cover the entire viewport */
+  body {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: ba;
+  }
+  
+  /* Center content */
+  .container {
+    text-align: center;
+  }
+  
+  /* Style headings */
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  /* Style paragraphs */
+  p {
+    font-size: 1rem;
+    color: #333;
+  }
+  
